@@ -1,11 +1,6 @@
 <h1 align="left">Hi, I'm Taimour</h1>
 <h3 align="left">An aspiring web developer from Lebanon</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/taimour-shmait-955112305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taimour shmait" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none; outline:none; box-shadow:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display:inline-block; vertical-align:middle;"/></a>&nbsp;
@@ -19,3 +14,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimourshmait&show_icons=true&locale=en&layout=compact" alt="taimourshmait" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourshmait&" alt="taimourshmait" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/taimour-shmait-955112305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taimour shmait" height="30" width="40" /></a>
+</p>
