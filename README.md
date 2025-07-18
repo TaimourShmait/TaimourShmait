@@ -1,5 +1,7 @@
 <h1 align="left">Taimour Shmait</h1>
-<h3 align="left">Web developer from Lebanon</h3>
+<h3 align="left">Web Developer from Lebanon</h3>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,7 +17,9 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimourshmait&show_icons=true&locale=en&layout=compact" alt="taimourshmait" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourshmait&" alt="taimourshmait" /></p> -->
 
-<h3 align="left">Contact Me</h3>
+<hr>
+
+<!-- <h3 align="left">Contact Me</h3> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/taimour-shmait-955112305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taimour shmait" height="30" width="40" /></a>
 </p>
