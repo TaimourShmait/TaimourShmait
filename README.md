@@ -1,5 +1,5 @@
 <h1 align="left">Taimour Shmait</h1>
-<h3 align="left">Web Developer from Lebanon</h3>
+<h3 align="left">Web Developer</h3>
 
 <hr>
 
