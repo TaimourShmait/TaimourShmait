@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Taimour Shmait 👋</h1>
-<h3 align="left">Web Developer passionate about building clean, responsive web applications</h3>
+<h3 align="left">Web Developer passionate about building clean web applications</h3>
 
 <hr>
 
